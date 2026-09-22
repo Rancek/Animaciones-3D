@@ -38,6 +38,10 @@ Estos ejercicios fueron realizados para estudiar diferentes formas de movimiento
 
 🎬 **Ejercicio de animación**
 
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Remolino.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>🌪️ Ejercicio de animación y estudio de movimiento realizado durante mi formación universitaria.</em> </p>
+
 [▶️ Ver animación — Mis Plátanos](https://github.com/Rancek/Animaciones-3D/blob/main/Mis%20Platanos.mov)
 
 Este ejercicio forma parte de los trabajos prácticos realizados durante mi formación universitaria, explorando el movimiento y la construcción de una acción animada.
@@ -48,6 +52,10 @@ Este ejercicio forma parte de los trabajos prácticos realizados durante mi form
 
 🎬 **Estudio de ciclo de caminata**
 
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminar.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>🚶 Estudio de ciclo de caminata realizado durante mi formación universitaria.</em> </p>
+
 [▶️ Ver animación — Test caminar](https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminar.mov)
 
 Ejercicio enfocado en el estudio del **ciclo de caminata**, trabajando la coordinación del cuerpo, desplazamiento, poses y ritmo del movimiento.
@@ -57,6 +65,10 @@ Ejercicio enfocado en el estudio del **ciclo de caminata**, trabajando la coordi
 ### 😠 Test de caminar enojado
 
 🎬 **Estudio de caminata con actuación**
+
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminarEnojado.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>😠 Estudio de caminata con actuación y expresión corporal.</em> </p>
 
 [▶️ Ver animación — Test caminar enojado](https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminarEnojado.mov)
 
@@ -76,6 +88,10 @@ Se trabajaron elementos como:
 ### 🏃 Test de correr
 
 🎬 **Estudio de carrera**
+
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Test_correr.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>🏃 Estudio de carrera y movimiento corporal.</em> </p>
 
 [▶️ Ver animación — Test correr](https://github.com/Rancek/Animaciones-3D/blob/main/Test_correr.mov)
 
@@ -124,6 +140,10 @@ Esta sección reúne trabajos enfocados en **Lip Sync y actuación de personajes
 
 🎭 **Estudio de Lip Sync y actuación**
 
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Hotel%2520Transilvania.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>🎭 Ejercicio de Lip Sync y actuación desarrollado durante mi formación universitaria.</em> </p>
+
 [▶️ Ver animación — Hotel Transilvania](https://github.com/Rancek/Animaciones-3D/blob/main/Hotel%20Transilvania.mp4)
 
 Este ejercicio fue desarrollado durante mi formación universitaria y está orientado al estudio de la **sincronización del diálogo con la actuación del personaje**.
@@ -142,6 +162,10 @@ Se trabajaron aspectos como:
 ### 🎬 Ejercicio — Rio 2
 
 🎭 **Estudio de Lip Sync y actuación**
+
+<p align="center"> <img src="https://github.com/Rancek/Animaciones-3D/blob/main/Rio%202.gif?raw=true" width="650"> </p>
+
+<p align="center"> <em>🗣️ Ejercicio de Lip Sync, expresión facial y actuación.</em> </p>
 
 [▶️ Ver animación — Rio 2](https://github.com/Rancek/Animaciones-3D/blob/main/Rio%202.mp4)
 

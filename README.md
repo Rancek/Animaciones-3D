@@ -10,43 +10,78 @@ Estos trabajos forman parte de mi proceso de aprendizaje y representan la aplica
 
 ---
 
-## 🏫 Trabajos realizados durante mi formación universitaria
+# 🏫 Trabajos realizados durante mi formación universitaria
 
 Los proyectos incluidos en este repositorio fueron desarrollados durante mi etapa universitaria como parte de diferentes ejercicios, evaluaciones y trabajos prácticos.
 
 Durante este proceso aprendí que la animación no consiste solamente en mover un personaje, sino en darle **intención, ritmo, personalidad y capacidad de comunicar mediante el movimiento**.
 
-Los trabajos abarcan principalmente:
+---
 
-* 🎬 Animación de personajes.
-* 🧍 Movimiento corporal.
-* 🎭 Acting y actuación.
-* 🗣️ Lip Sync.
-* 👄 Sincronización labial.
-* 👀 Expresiones faciales.
-* ⏱️ Timing y ritmo.
-* 🎞️ Desarrollo audiovisual.
+# 🖼️ Galería de trabajos
+
+A continuación se presentan algunos de los trabajos desarrollados durante mi formación universitaria, separados en las dos principales áreas trabajadas en este repositorio.
 
 ---
 
-# 🎬 Animación 3D
+# 🎬 1. Animación
 
 ## 🎭 Animación de personajes
 
-Uno de los principales enfoques de estos trabajos fue la animación de personajes, explorando cómo construir movimientos claros, expresivos y coherentes.
+En esta sección se presentan ejercicios y proyectos relacionados con **animación de personajes 3D**, explorando movimiento, actuación, poses, timing y expresión corporal.
 
-Durante los ejercicios trabajé diferentes aspectos de la animación, entre ellos:
+### 🧍 Movimiento y Acting
 
-* 🧍 Movimiento corporal.
-* 👐 Movimiento de brazos y manos.
-* 👀 Dirección de la mirada.
-* 🦶 Desplazamiento y poses.
-* 🎭 Actuación de personajes.
-* 🔄 Transiciones entre poses.
-* ⏱️ Timing y ritmo.
-* 🎬 Construcción de acciones.
+Estos ejercicios fueron realizados para estudiar diferentes formas de movimiento y actuación de personajes, trabajando aspectos como desplazamiento, ritmo, peso, intención y personalidad.
 
-Estos ejercicios permitieron comprender cómo las diferentes partes del cuerpo deben trabajar en conjunto para transmitir una acción, emoción o intención.
+### 🍌 Mis Plátanos
+
+🎬 **Ejercicio de animación**
+
+[▶️ Ver animación — Mis Plátanos](https://github.com/Rancek/Animaciones-3D/blob/main/Mis%20Platanos.mov)
+
+Este ejercicio forma parte de los trabajos prácticos realizados durante mi formación universitaria, explorando el movimiento y la construcción de una acción animada.
+
+---
+
+### 🚶 Test de caminar
+
+🎬 **Estudio de ciclo de caminata**
+
+[▶️ Ver animación — Test caminar](https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminar.mov)
+
+Ejercicio enfocado en el estudio del **ciclo de caminata**, trabajando la coordinación del cuerpo, desplazamiento, poses y ritmo del movimiento.
+
+---
+
+### 😠 Test de caminar enojado
+
+🎬 **Estudio de caminata con actuación**
+
+[▶️ Ver animación — Test caminar enojado](https://github.com/Rancek/Animaciones-3D/blob/main/Test_caminarEnojado.mov)
+
+Este ejercicio explora cómo una emoción o actitud puede modificar la manera en que un personaje se desplaza.
+
+Se trabajaron elementos como:
+
+* 😠 Actitud corporal.
+* 🧍 Postura.
+* 🚶 Ritmo de caminata.
+* 🎭 Acting.
+* 👀 Intención del personaje.
+* ⏱️ Timing.
+
+---
+
+### 🏃 Test de correr
+
+🎬 **Estudio de carrera**
+
+[▶️ Ver animación — Test correr](https://github.com/Rancek/Animaciones-3D/blob/main/Test_correr.mov)
+
+Ejercicio enfocado en el estudio del **movimiento de carrera**, trabajando coordinación, desplazamiento, poses y ritmo.
+
+Estos ejercicios permitieron comprender cómo las diferentes partes del cuerpo deben coordinarse para generar un movimiento convincente.
 
 ---
 
@@ -55,8 +90,6 @@ Estos ejercicios permitieron comprender cómo las diferentes partes del cuerpo d
 El **timing** es uno de los elementos fundamentales dentro de la animación.
 
 Durante mi formación universitaria trabajé con diferentes velocidades y ritmos de movimiento para comprender cómo la duración de una acción puede modificar la percepción de una escena.
-
-El proceso de construcción de una acción puede representarse de la siguiente manera:
 
 **Anticipación → Acción → Reacción → Recuperación**
 
@@ -68,43 +101,53 @@ La correcta utilización del timing permite desarrollar movimientos más fluidos
 
 La animación permite contar historias mediante el lenguaje corporal y las expresiones de los personajes.
 
-En diferentes ejercicios trabajé aspectos como:
+Los ejercicios realizados permitieron trabajar:
 
-* 🙂 Expresiones faciales.
-* 👀 Miradas.
 * 🧍 Lenguaje corporal.
+* 👀 Miradas.
 * ✋ Gestos.
 * 🎭 Reacciones.
+* 😠 Actitudes y emociones.
 * 🎬 Intención de la acción.
-* 🗣️ Relación entre diálogo y actuación.
-
-El objetivo fue comprender cómo transmitir emociones e intenciones mediante el movimiento, incluso cuando el personaje no utiliza palabras.
-
----
-
-## 🎞️ Proceso de animación
-
-Durante el desarrollo de los trabajos se aplicaron diferentes etapas de producción:
-
-**Idea → Referencia → Blocking → Refinamiento → Animación → Correcciones → Resultado final**
-
-Cada etapa permitió analizar y mejorar el movimiento, revisando aspectos técnicos y artísticos antes de llegar al resultado definitivo.
+* ⏱️ Timing.
+* 🔄 Transiciones entre poses.
 
 ---
 
-# 🗣️ Lip Sync
+# 🗣️ 2. Lip Sync
 
-## 👄 Sincronización de diálogo
+## 👄 Sincronización labial y actuación
 
-Este repositorio también incluye ejercicios de **Lip Sync**, realizados durante mi formación universitaria.
+Esta sección reúne trabajos enfocados en **Lip Sync y actuación de personajes**, trabajando la relación entre diálogo, expresión facial, movimiento de la boca y lenguaje corporal.
 
-El Lip Sync consiste en sincronizar los movimientos de la boca y las expresiones del personaje con el diálogo o audio correspondiente.
+### 🎬 Ejercicio — Hotel Transilvania
 
-El proceso puede resumirse de la siguiente manera:
+🎭 **Estudio de Lip Sync y actuación**
 
-**Audio → Análisis del diálogo → Fonemas → Poses de boca → Timing → Animación**
+[▶️ Ver animación — Hotel Transilvania](https://github.com/Rancek/Animaciones-3D/blob/main/Hotel%20Transilvania.mp4)
 
-El objetivo es conseguir que los movimientos del personaje acompañen correctamente el ritmo y la pronunciación del diálogo.
+Este ejercicio fue desarrollado durante mi formación universitaria y está orientado al estudio de la **sincronización del diálogo con la actuación del personaje**.
+
+Se trabajaron aspectos como:
+
+* 🗣️ Sincronización del diálogo.
+* 👄 Movimiento de la boca.
+* 👀 Expresión facial.
+* 🎭 Acting.
+* ⏱️ Timing.
+* 🧍 Lenguaje corporal.
+
+---
+
+### 🎬 Ejercicio — Rio 2
+
+🎭 **Estudio de Lip Sync y actuación**
+
+[▶️ Ver animación — Rio 2](https://github.com/Rancek/Animaciones-3D/blob/main/Rio%202.mp4)
+
+Segundo ejercicio orientado al trabajo de **Lip Sync, expresión y actuación**, desarrollado como parte de mi formación universitaria.
+
+Este trabajo permitió continuar explorando la relación entre el audio y la interpretación visual del personaje.
 
 ---
 
@@ -112,7 +155,7 @@ El objetivo es conseguir que los movimientos del personaje acompañen correctame
 
 Uno de los aspectos principales del Lip Sync es identificar los sonidos presentes en el diálogo y relacionarlos con las posiciones necesarias de la boca.
 
-Durante estos ejercicios trabajé aspectos como:
+Durante estos ejercicios trabajé:
 
 * 🗣️ Análisis del audio.
 * 🔤 Identificación de fonemas.
@@ -121,57 +164,37 @@ Durante estos ejercicios trabajé aspectos como:
 * 🔄 Transiciones entre posiciones.
 * 🎬 Coordinación entre boca y rostro.
 
-Este proceso permite desarrollar una animación labial más clara y coherente con el sonido.
-
 ---
 
-## 🎭 Expresión facial y actuación
+## 🎭 Expresión y actuación
 
-El Lip Sync no se limita únicamente al movimiento de los labios. La expresión completa del personaje también debe acompañar el diálogo y la intención de la escena.
+El Lip Sync no se limita únicamente al movimiento de los labios.
 
-Durante mi formación trabajé con:
+La expresión completa del personaje también debe acompañar el diálogo y la intención de la escena.
+
+Durante estos trabajos se exploraron:
 
 * 👀 Dirección de la mirada.
 * 🤨 Movimiento de cejas.
 * 👄 Movimiento de la boca.
 * 🙂 Expresiones faciales.
-* 😮 Reacciones.
-* 🎭 Intención emocional.
+* 🎭 Intención de la actuación.
 * 🧍 Lenguaje corporal.
 * 🗣️ Relación entre diálogo y actuación.
 
-La combinación de estos elementos permite que el personaje no solamente reproduzca un diálogo, sino que también transmita una interpretación visual.
-
 ---
 
-## 🎬 Acting y Lip Sync
+# 🎞️ Proceso de trabajo
 
-La actuación y el Lip Sync están directamente relacionados.
+Durante el desarrollo de los trabajos se aplicaron diferentes etapas de producción:
 
-Un personaje puede tener una sincronización correcta de la boca, pero también necesita expresiones, gestos y movimientos corporales que refuercen lo que está comunicando.
+### 🎬 Animación
 
-El proceso de interpretación puede representarse así:
+**Idea → Referencia → Blocking → Refinamiento → Animación → Correcciones → Resultado final**
 
-**Diálogo → Lip Sync → Expresión facial → Acting → Movimiento corporal**
+### 🗣️ Lip Sync
 
-Este enfoque permite desarrollar personajes más expresivos y creíbles dentro de una escena animada.
-
----
-
-## ⏱️ Timing y sincronización labial
-
-El timing es especialmente importante en la animación de diálogos.
-
-Cada movimiento de la boca debe realizarse en el momento adecuado respecto al audio, evitando que la animación se adelante o se retrase.
-
-Durante los ejercicios trabajé la relación entre:
-
-* 🎵 Ritmo del audio.
-* 🗣️ Pronunciación.
-* 👄 Movimiento de la boca.
-* ⏱️ Duración de cada pose.
-* 🎭 Expresión facial.
-* 🎬 Movimiento corporal.
+**Audio → Análisis → Fonemas → Blocking → Sincronización → Expresión → Correcciones → Resultado final**
 
 ---
 
@@ -181,7 +204,7 @@ Durante los ejercicios trabajé la relación entre:
 | ----------------------- | ------------------------------------ |
 | 🎬 Autodesk Maya        | Animación, rigging y Lip Sync 3D     |
 | 🗿 ZBrush               | Esculpido y desarrollo de personajes |
-| 🎨 Substance 3D Painter | Texturizado y creación de materiales |
+| 🎨 Substance 3D Painter | Texturizado y materiales             |
 | 🖌️ Adobe Photoshop     | Diseño y edición de imágenes         |
 | ✨ Adobe After Effects   | Composición y efectos visuales       |
 | 🎞️ Adobe Premiere Pro  | Edición y montaje audiovisual        |
@@ -213,7 +236,7 @@ Cada ejercicio permitió reforzar diferentes conocimientos y comprender progresi
 
 **Diseño → Preparación → Movimiento → Actuación → Audio → Animación → Resultado final**
 
-La práctica constante me ayudó a desarrollar una mayor comprensión sobre la importancia de la observación, la planificación, el análisis del movimiento y la corrección continua.
+La práctica constante me ayudó a desarrollar una mayor comprensión sobre la observación, la planificación, el análisis del movimiento y la corrección continua.
 
 ---
 
@@ -254,3 +277,4 @@ Continuar fortaleciendo mis conocimientos y habilidades en:
 🎨 Artista 3D | 🧊 Modelado 3D | 🎬 Animación | 🗣️ Lip Sync
 
 Este repositorio forma parte de mi portafolio personal y reúne trabajos realizados durante mi formación universitaria.
+
